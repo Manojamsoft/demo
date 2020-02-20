@@ -109,29 +109,6 @@
     "grabbable": true,
     "classes": ""
   },
-  
-  {
-    "data": {
-      "source": "603070",
-      "target": "605755",
-      "weight": 0.0089772185,
-      "group": "coexp",
-      "networkId": 1133,
-      "networkGroupId": 18,
-      "intn": true,
-      "rIntnId": 4,
-      "id": "e2"
-    },
-    "position": {},
-    "group": "edges",
-    "removed": false,
-    "selected": false,
-    "selectable": true,
-    "locked": false,
-    "grabbed": false,
-    "grabbable": true,
-    "classes": ""
-  },
   {
     "data": {
       "source": "610236",
