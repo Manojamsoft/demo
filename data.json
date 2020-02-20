@@ -112,6 +112,28 @@
   {
     "data": {
       "source": "608473",
+      "target": "610236",
+      "weight": 0.0055478187,
+      "group": "coexp",
+      "networkId": 1133,
+      "networkGroupId": 18,
+      "intn": true,
+      "rIntnId": 2,
+      "id": "e0"
+    },
+    "position": {},
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbed": false,
+    "grabbable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "source": "608473",
       "target": "605755",
       "weight": 0.0055478187,
       "group": "coexp",
